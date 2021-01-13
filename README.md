@@ -11,6 +11,6 @@ Software for controlling Yokogawa ANDO AQ6315A optical spectrum analyzer via GPI
     b) Run command: conda install -c conda-forge pyvisa
 
 ## How to use:
-Run <span style="color:blue">osa_control.py</span> and use commands from the list.
+Run <strong>osa_control.py</strong> and use commands from the list.
 
 ![UI demonstration](https://github.com/andrei-fedotov/ANDO_control/blob/main/ui.png)
